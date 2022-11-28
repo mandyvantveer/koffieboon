@@ -1,0 +1,22 @@
+.clear {
+    clear: both;
+}
+nav li {
+    float: left;
+    margin-right: 20px;
+}
+nav {
+    background: black;
+    padding: 50px;
+}
+a {
+    color: white;
+    font-size: 2em;
+    /* border: 1px solid white; */
+    padding: 5px 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+nav ul {
+    float: right;
+}
